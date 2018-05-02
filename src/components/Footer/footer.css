@@ -1,0 +1,12 @@
+.footer {
+    position: relative;
+    bottom: 0;
+    background: #2d2d2d;
+    color: #34e0ff;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.footer ul {
+    list-style: none;
+}
